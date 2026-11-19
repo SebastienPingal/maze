@@ -1,0 +1,2405 @@
+{
+ "rooms": [
+  {
+   "n": 1,
+   "paragraphs": [
+    ". . . the entrance hall of the Maze.",
+    "They looked carefully at the bronze doors, trying to choose. The uncertainty of visitors is one of my little pleasures.",
+    "“It’s easy to get lost,” I said helpfully. “This can be a sinister place.” The sun glared at me through the gateway.",
+    "Something was ringing behind one of the doors. They spent some time trying to decide which door it was, not understanding that the silences of the Maze are as eloquent as the sounds.",
+    "“Decisions, decisions,” one said. “Too many decisions.”",
+    "“The story of my life,” said another.",
+    "“We don’t want to be late,” said a third, opening one of the doors.",
+    "“Nary a soul to be seen,” said the first, peering into the gloom.",
+    "I waited patiently for them to choose which way to go . . .",
+    "into . . ."
+   ],
+   "doors": [
+    {
+     "to": 20,
+     "points": [
+      476,
+      212,
+      879,
+      212,
+      879,
+      966,
+      476,
+      966
+     ]
+    },
+    {
+     "to": 26,
+     "points": [
+      954,
+      954,
+      1348,
+      954,
+      1348,
+      210,
+      954,
+      210
+     ]
+    },
+    {
+     "to": 41,
+     "points": [
+      1401,
+      209,
+      1600,
+      181,
+      1598,
+      1059,
+      1413,
+      972
+     ]
+    },
+    {
+     "to": 21,
+     "points": [
+      1888,
+      1213,
+      1663,
+      1099,
+      1663,
+      176,
+      1890,
+      143
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paragraphs": [
+    ". . . a bright room whose walls were in some disrepair. The floorboards creaked and groaned; the plaster made a gritty sound.",
+    "They studied the old frescoes for clues but missed the obvious signs.",
+    "“Are we on the right path?” they asked.",
+    "Keeping in mind what a relative term “right” is, I assured them they were, indeed, on the right path. As for the “correct” path or the “most appropriate” path. . . . Well, that might be something else.",
+    "Full of confidence now they marched out to . . ."
+   ],
+   "doors": [
+    {
+     "to": 22,
+     "points": [
+      751,
+      979,
+      1256,
+      979,
+      1256,
+      279,
+      751,
+      279
+     ]
+    },
+    {
+     "to": 29,
+     "points": [
+      203,
+      1258,
+      449,
+      1094,
+      446,
+      240,
+      195,
+      210
+     ]
+    },
+    {
+     "to": 12,
+     "points": [
+      1800,
+      1271,
+      1551,
+      1108,
+      1578,
+      220,
+      1798,
+      177
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragraphs": [
+    ". . . an entirely different kind of place.",
+    "The group complained of feeling “all turned around,” as well they might.",
+    "Because no one wanted to stay here very long they missed the real sign while looking through the obvious. People in their situation, confronted with a challenge, tend to accept the terms of the challenge as a given, without examining it from all sides. How many sides does that problem have? They don’t know.",
+    "We passed down a long flight of stairs, through some sort of pantry, and on into . . ."
+   ],
+   "doors": [
+    {
+     "to": 33,
+     "points": [
+      101,
+      1383,
+      304,
+      1168,
+      297,
+      127,
+      92,
+      94
+     ]
+    },
+    {
+     "to": 9,
+     "points": [
+      1017,
+      141,
+      1357,
+      141,
+      1357,
+      915,
+      1017,
+      915
+     ]
+    },
+    {
+     "to": 18,
+     "points": [
+      1792,
+      75,
+      1572,
+      108,
+      1570,
+      1074,
+      1770,
+      1259
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragraphs": [
+    ". . . the great hall of many doors.",
+    "“What a foolish face,” I snorted. “Pay no attention.”",
+    "A sound made them all turn suddenly. A small black cat ran out of a door to my right, sniffed at us, and, before I could move, ran out of the hall. It was fortunate that I was still standing with the rest of them or they might have noticed.",
+    "Faint voices came down one of the corridors.",
+    "“Shall we toss a coin?” I asked. “Or have you made up your minds?”",
+    "They hadn’t made up their minds, and they had no coins. By a process of elimination they decided to go to . . ."
+   ],
+   "doors": [
+    {
+     "to": 44,
+     "points": [
+      163,
+      98,
+      462,
+      207,
+      422,
+      1246,
+      149,
+      1452
+     ]
+    },
+    {
+     "to": 29,
+     "points": [
+      557,
+      254,
+      688,
+      300,
+      667,
+      1053,
+      541,
+      1142
+     ]
+    },
+    {
+     "to": 15,
+     "points": [
+      709,
+      1019,
+      776,
+      965,
+      793,
+      340,
+      715,
+      314
+     ]
+    },
+    {
+     "to": 11,
+     "points": [
+      904,
+      366,
+      1076,
+      366,
+      1076,
+      896,
+      904,
+      896
+     ]
+    },
+    {
+     "to": 16,
+     "points": [
+      1266,
+      1039,
+      1194,
+      990,
+      1190,
+      338,
+      1276,
+      305
+     ]
+    },
+    {
+     "to": 24,
+     "points": [
+      1311,
+      297,
+      1446,
+      245,
+      1430,
+      1163,
+      1316,
+      1077
+     ]
+    },
+    {
+     "to": 43,
+     "points": [
+      1542,
+      1273,
+      1827,
+      1437,
+      1825,
+      111,
+      1539,
+      218
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paragraphs": [
+    ". . . the tree room.",
+    "“Are these real?” they asked.",
+    "I told them the trees were as real as anything else in the House. As this was an important decision I encouraged them to take their time. After all, the more they think about the possibilities the more choices they have to make.",
+    "What were their chances of choosing wisely . . . one in four? Two in four perhaps, if I was generous about it . . . and why not be generous? There are one hundred ninety doors in this part of the House, counting the gate . . . enough for everyone.",
+    "Making a choice, they entered a very long, dark corridor and at last came out into . . ."
+   ],
+   "doors": [
+    {
+     "to": 43,
+     "points": [
+      165,
+      309,
+      408,
+      309,
+      408,
+      978,
+      165,
+      978
+     ]
+    },
+    {
+     "to": 22,
+     "points": [
+      616,
+      302,
+      853,
+      302,
+      853,
+      977,
+      616,
+      977
+     ]
+    },
+    {
+     "to": 30,
+     "points": [
+      1080,
+      963,
+      1326,
+      963,
+      1326,
+      315,
+      1080,
+      315
+     ]
+    },
+    {
+     "to": 20,
+     "points": [
+      1515,
+      975,
+      1786,
+      975,
+      1786,
+      346,
+      1515,
+      346
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paragraphs": [
+    ". . . a gloomy, cavelike place far underground. Even I was oppressed by the weight that hung over our heads. A very small hole, high above, admitted a feeble light.",
+    "Standing in the light one of them put his hand out. “I think it may be raining out there . . .”",
+    "They didn’t like the look of the place.",
+    "“You continue to judge everything by the way it looks!” I cried, exasperated by their timidity. I knew I shouldn’t have said anything. If you think of all the deceptions practiced in my family, particularly on my father . . .",
+    "We went down the only way open to us and came to . . ."
+   ],
+   "doors": [
+    {
+     "to": 40,
+     "points": [
+      109,
+      1393,
+      435,
+      1287,
+      604,
+      475,
+      401,
+      363,
+      178,
+      688
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paragraphs": [
+    ". . . a pleasant room with three doors and a lamp. Looking at the picture on the wall they decided it wasn’t a very good likeness.",
+    "One of them almost fell over something on the floor. “Why don’t they pick up after themselves?” he said, sounding like an old man.",
+    "“Weren’t you ever irresponsible?” I asked, thinking of my childhood and how wild I had been.",
+    "Music was being played somewhere nearby. We stopped to listen for a moment.",
+    "Leaving the pictures looking out at an empty room we went on to . . ."
+   ],
+   "doors": [
+    {
+     "to": 33,
+     "points": [
+      217,
+      1284,
+      497,
+      1078,
+      514,
+      113,
+      191,
+      62
+     ]
+    },
+    {
+     "to": 36,
+     "points": [
+      778,
+      1013,
+      1188,
+      1013,
+      1188,
+      130,
+      778,
+      130
+     ]
+    },
+    {
+     "to": 16,
+     "points": [
+      1744,
+      1282,
+      1476,
+      1078,
+      1471,
+      96,
+      1799,
+      62
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paragraphs": [
+    "...a vaulted chamber lit by a single bulb.",
+    "Someone knocked a bowl off the table. The crash echoed from the ceiling and whispered away down the corridors. I broke another on purpose.",
+    "“Make sure to take that with you,” I said. “You can never tell when you might need it.”",
+    "“Take what?” they wanted to know.",
+    "“Isn’t it obvious?”",
+    "Taking a vote among themselves they went on to..."
+   ],
+   "doors": [
+    {
+     "to": 31,
+     "points": [
+      78,
+      575,
+      82,
+      813,
+      475,
+      1507,
+      703,
+      1452,
+      282,
+      542
+     ]
+    },
+    {
+     "to": 6,
+     "points": [
+      606,
+      512,
+      467,
+      546,
+      796,
+      1239,
+      873,
+      1123
+     ]
+    },
+    {
+     "to": 29,
+     "points": [
+      1011,
+      994,
+      1248,
+      881,
+      991,
+      350,
+      777,
+      443
+     ]
+    },
+    {
+     "to": 12,
+     "points": [
+      1443,
+      847,
+      1649,
+      928,
+      1256,
+      159,
+      1164,
+      260
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paragraphs": [
+    "...what appeared to be an old storeroom. Dust obscured a damaged paineting making it hard to understand just what the artist had intended.",
+    "“This could be a trick of some sort,” one said. “We might be going around in circles.”",
+    "“I don’t think so,” said the thoughtful one. “I think we’re supposed to think it’s a trick...that’s the trick.”",
+    "They all looked at me. “Yes,” I said. “I’m sure you’re right about that.”",
+    "With doubtful looks they left for..."
+   ],
+   "doors": [
+    {
+     "to": 3,
+     "points": [
+      217,
+      1305,
+      388,
+      1184,
+      405,
+      454,
+      209,
+      355
+     ]
+    },
+    {
+     "to": 18,
+     "points": [
+      1244,
+      1040,
+      1546,
+      1040,
+      1546,
+      419,
+      1244,
+      419
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paragraphs": [
+    "...a room that smelled of paint. Faint voices, apparently in an argument, came from behind the locked door.",
+    "“You know,” said one, “that sounds like us in there...”",
+    "They tried the door but, naturally, it wouldn’t open. The voices stopped when the doorknob rattled.",
+    "One picked up the umbrella. “It may rain where we’re going.”",
+    "I signaled my approval and, after a short rest, we came to..."
+   ],
+   "doors": [
+    {
+     "to": 34,
+     "points": [
+      103,
+      153,
+      488,
+      153,
+      488,
+      942,
+      103,
+      942
+     ]
+    },
+    {
+     "to": 41,
+     "points": [
+      1318,
+      157,
+      1032,
+      169,
+      1055,
+      1044,
+      1299,
+      1162
+     ]
+    },
+    {
+     "to": 14,
+     "points": [
+      1803,
+      104,
+      1417,
+      146,
+      1431,
+      1229,
+      1748,
+      1362
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paragraphs": [
+    "...an airy room with many doors. It was a big space, but I still felt crowded. I’ve always hated confinement.",
+    "“Whatever you do,” I warned them, “don’t touch that!”",
+    "“This must be an important room,” said one of them. “It has more doors than any of the others...”",
+    "This was not true, but I didn’t want to interrupt.",
+    "“With so many paths crossing here we must be close to the center,” she continued.",
+    "I had noticed this guest before; I would have to be careful. “This is an important choice,” I said, trying to encourage them.",
+    "Gratefully leaving the room behind we walked all the way to..."
+   ],
+   "doors": [
+    {
+     "to": 40,
+     "points": [
+      546,
+      502,
+      258,
+      502,
+      258,
+      1026,
+      546,
+      1026
+     ]
+    },
+    {
+     "to": 24,
+     "points": [
+      1657,
+      497,
+      1376,
+      497,
+      1376,
+      1028,
+      1657,
+      1028
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paragraphs": [
+    "...a spacious room with a hole in the floor. A ladder led down into the shadows. Outside, leaves shook in the wind. They didn’t like the look of that hole in the floor.",
+    "“Too dark down there!” they cried. “Who knows what’s at the bottom.” They looked at me again.",
+    "“Probably a room of some kind,” I volunteered quickly. “But you know what I say about appearances.” It would have been a relief to get outside for a while.",
+    "They wanted to know if they had been here before.... How could I answer that?",
+    "“I have the strangest feeling of déjà vu,” said one who, bolder than the rest, led us into..."
+   ],
+   "doors": [
+    {
+     "to": 2,
+     "points": [
+      109,
+      88,
+      565,
+      116,
+      538,
+      1080,
+      228,
+      1313
+     ]
+    },
+    {
+     "to": 21,
+     "points": [
+      1280,
+      150,
+      678,
+      138,
+      688,
+      988,
+      815,
+      990,
+      866,
+      921,
+      1092,
+      920,
+      1143,
+      988,
+      1246,
+      983
+     ]
+    },
+    {
+     "to": 39,
+     "points": [
+      731,
+      1280,
+      796,
+      1134,
+      748,
+      1155,
+      707,
+      1040,
+      871,
+      984,
+      914,
+      1027,
+      1145,
+      1066,
+      1232,
+      1283
+     ]
+    },
+    {
+     "to": 8,
+     "points": [
+      1827,
+      1270,
+      1677,
+      1271,
+      1437,
+      1075,
+      1422,
+      110,
+      1838,
+      103
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paragraphs": [
+    "...room number 13.",
+    "They weren’t really comfortable here and I knew why.",
+    "“No, no,” they said. “We’re not all superstitious.”",
+    "“Only some of you, then?”",
+    "They were worried it might be Friday. Well it’s true that is was closer to the end of the week than they realized. It takes a great deal of experience, certainly more than they possessed, to understand how time works in the Maze. The clock thought it was six in the evening.",
+    "Quickly moving on we came to..."
+   ],
+   "doors": [
+    {
+     "to": 27,
+     "points": [
+      439,
+      119,
+      226,
+      61,
+      150,
+      63,
+      135,
+      197,
+      85,
+      181,
+      85,
+      1350,
+      112,
+      1354,
+      226,
+      1249,
+      533,
+      1050
+     ]
+    },
+    {
+     "to": 18,
+     "points": [
+      684,
+      994,
+      1281,
+      1056,
+      1307,
+      1025,
+      1283,
+      173,
+      708,
+      187
+     ]
+    },
+    {
+     "to": 25,
+     "points": [
+      1891,
+      1345,
+      1856,
+      1343,
+      1434,
+      1068,
+      1522,
+      106,
+      1765,
+      60,
+      1891,
+      62
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paragraphs": [
+    "...one of the biggest rooms in the House. All three doorways were dark.",
+    "“Afraid to go out?” I asked.",
+    "Since they tried to think of themselves as adults, they didn’t care for my question.",
+    "“Not really,” said the thoughtful one, “but that doesn’t mean we have to go running around out there just to prove something to you.”",
+    "I knew she would bear watching.",
+    "“Choose then!” I cried, as if my feelings were hurt. “Pay no attention to anything I say.” I knew they couldn’t afford not to listen to me entirely...they were so easily led.",
+    "Turning around, the group took a path that completely surprised me after all, and I followed them to..."
+   ],
+   "doors": [
+    {
+     "to": 10,
+     "points": [
+      433,
+      1113,
+      70,
+      1113,
+      70,
+      568,
+      433,
+      568
+     ]
+    },
+    {
+     "to": 43,
+     "points": [
+      1108,
+      512,
+      793,
+      512,
+      793,
+      1108,
+      1108,
+      1108
+     ]
+    },
+    {
+     "to": 24,
+     "points": [
+      1800,
+      1123,
+      1433,
+      1123,
+      1433,
+      515,
+      1800,
+      515
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paragraphs": [
+    "...room number 15. Just as we entered I heard a thump and the sound of footsteps hurrying away. Somewhere a door slammed.",
+    "“At least three of us can sit down here,” said one.",
+    "There were only three possible choices.",
+    "Leaning on the sacrificial tripod I was suddenly moved to say, “Perhaps these numbers relate to each other in some specific combination...” Immediately I regretted this act of charity...sometimes I think, after all these years, that I don’t really know myself.",
+    "One of them thought he had worked it out and, very pleased with himself, led us into . . ."
+   ],
+   "doors": [
+    {
+     "to": 30,
+     "points": [
+      842,
+      319,
+      541,
+      319,
+      541,
+      1015,
+      842,
+      1015
+     ]
+    },
+    {
+     "to": 37,
+     "points": [
+      1389,
+      320,
+      1100,
+      320,
+      1100,
+      1041,
+      1389,
+      1041
+     ]
+    },
+    {
+     "to": 3,
+     "points": [
+      1751,
+      253,
+      1557,
+      287,
+      1560,
+      442,
+      1443,
+      449,
+      1438,
+      1244,
+      1637,
+      1191,
+      1757,
+      1274
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paragraphs": [
+    "...a stone chamber which reminded me of my old neighbors.",
+    "Of course, that was a long time ago now, but would you believe their descendants are still telling stories about me and my family to their children?",
+    "Even if most of the stories are lies and exaggerations, it is immortality of a sort.",
+    "As I passed in front of an open doorway a figure, crossing the hall outside, saw me and immediately ran off.",
+    "“Who was that?” they asked.",
+    "“Another visitor, to be sure.”",
+    "“Why did he run away?”",
+    "“You probably scared him,” I said, and they apparently believed me.",
+    "With few regrets on my part we left for..."
+   ],
+   "doors": [
+    {
+     "to": 36,
+     "points": [
+      100,
+      52,
+      155,
+      64,
+      311,
+      132,
+      306,
+      1118,
+      100,
+      1236,
+      61,
+      372
+     ]
+    },
+    {
+     "to": 7,
+     "points": [
+      1763,
+      1246,
+      1559,
+      1110,
+      1505,
+      423,
+      1577,
+      108,
+      1721,
+      54,
+      1820,
+      359
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paragraphs": [
+    "...a room with a floor of sand.",
+    "“Amphorae,” I pronounced; empty, of course.",
+    "“This is an easier choice to make,” they said.",
+    "“You may think so,” I muttered to myself, “but your choices are more limited than you know.”",
+    "One should never accept the obvious here. If you think of the Maze as a machine, confusion is its product, and the machine was hard at work.",
+    "Ignoring my good advice they hurried into..."
+   ],
+   "doors": [
+    {
+     "to": 45,
+     "points": [
+      738,
+      61,
+      1140,
+      61,
+      1140,
+      936,
+      738,
+      936
+     ]
+    },
+    {
+     "to": 33,
+     "points": [
+      1479,
+      156,
+      1801,
+      156,
+      1801,
+      1324,
+      1479,
+      1324
+     ]
+    },
+    {
+     "to": 6,
+     "points": [
+      66,
+      710,
+      324,
+      710,
+      324,
+      1324,
+      66,
+      1324
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paragraphs": [
+    "... a much warmer room. Shadows danced across the floor to fire’s music.",
+    "“Someone’s lost his hat.”",
+    "“Are you sure it’s the hat that is lost?” I asked reasonably enough. No one would answer me.",
+    "Ducking behind a curtain and hurrying down a passageway we came out in ..."
+   ],
+   "doors": [
+    {
+     "to": 13,
+     "points": [
+      779,
+      204,
+      1127,
+      204,
+      1127,
+      1091,
+      779,
+      1091
+     ]
+    },
+    {
+     "to": 3,
+     "points": [
+      1480,
+      212,
+      1820,
+      212,
+      1820,
+      1077,
+      1480,
+      1077
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paragraphs": [
+    "...a shaded portico. A late afternoon sun warmed the rough blocks of stone.",
+    "“Get out of the way!” someone called. We moved into the yard, squinting at the strong light.",
+    "One of them sat on a marble bench after I politely pushed some flowers aside. “Did you pick these for me?” she asked, looking me in the eye. I had to tell her the truth.",
+    "In another part of the grounds someone was singing, but they couldn’t make out the words.",
+    "Like children they soon became restless and impatient to see something new, so we went on to..."
+   ],
+   "doors": [
+    {
+     "to": 31,
+     "points": [
+      390,
+      43,
+      677,
+      43,
+      677,
+      1158,
+      390,
+      1158
+     ]
+    },
+    {
+     "to": 11,
+     "points": [
+      753,
+      123,
+      958,
+      123,
+      958,
+      1025,
+      753,
+      1025
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "paragraphs": [
+    "...room number 20. The ringing stopped as soon as we entered.",
+    "“What is the matter now?” I asked them.",
+    "“Too many animals for a proper house!”",
+    "They walked carefully around the edges of the room. I watched with an amusement shared, I think, by the wise old tortoise.",
+    "With backwards looks and muttered comments about turtles they left room number 20 and entered..."
+   ],
+   "doors": [
+    {
+     "to": 5,
+     "points": [
+      72,
+      62,
+      325,
+      62,
+      325,
+      1214,
+      72,
+      1214
+     ]
+    },
+    {
+     "to": 27,
+     "points": [
+      1077,
+      105,
+      1430,
+      105,
+      1430,
+      979,
+      1077,
+      979
+     ]
+    },
+    {
+     "to": 1,
+     "points": [
+      1626,
+      95,
+      1884,
+      95,
+      1884,
+      1221,
+      1626,
+      1221
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paragraphs": [
+    "...a yard containing shrubs trimmed in ornamental shapes.",
+    "“This,” I began, “is called...”",
+    "“We know what the name is,” they interrupted. “Why don’t you just tell us which way to go?”",
+    "“I wasn’t referring to the plants,” I said in a huff. I refused to say anything else, leaving them to find their own way to..."
+   ],
+   "doors": [
+    {
+     "to": 44,
+     "points": [
+      81,
+      396,
+      442,
+      396,
+      442,
+      1287,
+      81,
+      1287
+     ]
+    },
+    {
+     "to": 24,
+     "points": [
+      942,
+      488,
+      1205,
+      488,
+      1205,
+      1153,
+      942,
+      1153
+     ]
+    },
+    {
+     "to": 31,
+     "points": [
+      1549,
+      552,
+      1759,
+      552,
+      1759,
+      1052,
+      1549,
+      1052
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "paragraphs": [
+    "...a gaudy room that reminded me of a theatrical backdrop. Places like this are overdone, for my taste, but some people like the exotic...well, everyone is a critic.",
+    "It’s true, I am by nature extremely critical. Although my life is a lonely one I have not spared any of my guests the rigor of my judgment.... We all have our roles to play.",
+    "This is not a bad place, really; one could spend quite some time here. However, in their restive way, the group moved on to..."
+   ],
+   "doors": [
+    {
+     "to": 43,
+     "points": [
+      370,
+      285,
+      641,
+      285,
+      641,
+      1080,
+      370,
+      1080
+     ]
+    },
+    {
+     "to": 38,
+     "points": [
+      1219,
+      294,
+      1480,
+      294,
+      1480,
+      1111,
+      1219,
+      1111
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "paragraphs": [
+    "...a room with three other doors. Looking out the windows my feet crushed something on the floor.",
+    "“Watch your step here,” I warned them. I’m always ready to be helpful with the less important things.",
+    "“Look at those two trees out there,” one said, looking over my shoulder, which is not easy to do.",
+    "“Must be a real wind coming up.”",
+    "Now they realized that it could rain where they were going.",
+    "“We should have brought that bumbershoot with us from the coat room...”",
+    "“Which room was that?”",
+    "“You remember, the one with the animal...”",
+    "I suggested that we take the door on my right and they realized they had found the door they had been seeking for so long, the entrance to..."
+   ],
+   "doors": [
+    {
+     "to": 28,
+     "points": [
+      16,
+      294,
+      306,
+      294,
+      306,
+      1050,
+      16,
+      1050
+     ]
+    },
+    {
+     "to": 8,
+     "points": [
+      488,
+      289,
+      790,
+      289,
+      790,
+      1030,
+      488,
+      1030
+     ]
+    },
+    {
+     "to": 45,
+     "points": [
+      966,
+      296,
+      1288,
+      296,
+      1288,
+      1037,
+      966,
+      1037
+     ]
+    },
+    {
+     "to": 19,
+     "points": [
+      1441,
+      232,
+      1783,
+      232,
+      1783,
+      1221,
+      1441,
+      1221
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "paragraphs": [
+    "...a place of unlimited darkness.",
+    "“Where are the doors?” they asked nerviously. “We can’t see any doors...”",
+    "“Be careful where you step!” said a cold voice. “This spot is taken.” Dozens of eyes blinked at us in the Stygian gloom.",
+    "By the time my uncertain visitors turned to ask me what to do I was already far away.",
+    "“There are no doors,” said the voice. “You are here with the rest of us now...”",
+    "Even my bellowing laughter couldn’t fill this space."
+   ],
+   "doors": []
+  },
+  {
+   "n": 25,
+   "paragraphs": [
+    "...a high room with the image of a crown on the wall for everyone to see now. Though one of my parents might be lowborn, the other was close to a king.... I’ve always felt at home here.",
+    "“Which door ought we take?” they wanted to know. I rather brusquely indicated the three doors.",
+    "“Any of those is fine for my purposes.”",
+    "They were disconcerted at the apparent lack of clues. “Perhaps in another room,” they said, leaving for..."
+   ],
+   "doors": [
+    {
+     "to": 34,
+     "points": [
+      36,
+      406,
+      464,
+      406,
+      464,
+      1266,
+      36,
+      1266
+     ]
+    },
+    {
+     "to": 13,
+     "points": [
+      546,
+      399,
+      934,
+      399,
+      934,
+      1249,
+      546,
+      1249
+     ]
+    },
+    {
+     "to": 35,
+     "points": [
+      1445,
+      402,
+      1804,
+      402,
+      1804,
+      1278,
+      1445,
+      1278
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "paragraphs": [
+    "...a dramatic room with four entrances and exits.",
+    "“Not enough light in here,” they remarked. “Not very tidy either.”",
+    "“Which way now, children?” I asked in my most patronizing voice.",
+    "They objected to my tone, but it distracted them from the real clues. The game usually goes as I plan it, despite the intentions of my visitors, or perhaps because of their intentions.",
+    "“What the devil is this supposed to be?” one asked. They gathered around and I realized they were close to something. I quickly picked up the bell, ringing it loudly.",
+    "“Was this what you heard outside?”",
+    "Holding their ears they ran out the door to..."
+   ],
+   "doors": [
+    {
+     "to": 30,
+     "points": [
+      158,
+      213,
+      373,
+      213,
+      373,
+      1031,
+      158,
+      1031
+     ]
+    },
+    {
+     "to": 36,
+     "points": [
+      457,
+      295,
+      789,
+      295,
+      789,
+      978,
+      457,
+      978
+     ]
+    },
+    {
+     "to": 38,
+     "points": [
+      1172,
+      259,
+      1504,
+      259,
+      1504,
+      983,
+      1172,
+      983
+     ]
+    },
+    {
+     "to": 1,
+     "points": [
+      1598,
+      217,
+      1812,
+      217,
+      1812,
+      1039,
+      1598,
+      1039
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "paragraphs": [
+    "...a darkened chamber dominated by a large figure.",
+    "We could see that someone had been working here recently; the entrance I had so carefully hidden had been uncovered. I made a note to return as soon as I could and fill in the hole again.",
+    "The visitors were so intrigued with the entrance at the bottom of the excavation that they ignored what the figure was trying to tell them.",
+    "“Where are the workmen?”",
+    "“They must be ahead of us,” I said. “If we hurry we can catch them...I mean catch up with them.”",
+    "I herded the group through the door to..."
+   ],
+   "doors": [
+    {
+     "to": 13,
+     "points": [
+      194,
+      222,
+      530,
+      222,
+      530,
+      1202,
+      194,
+      1202
+     ]
+    },
+    {
+     "to": 9,
+     "points": [
+      791,
+      896,
+      1194,
+      896,
+      1194,
+      1381,
+      791,
+      1381
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "paragraphs": [
+    "...a spacious room with a hole in the floor. A ladder led down into the shadows. Outside, leaves shook in the wind. They didn’t like the look of that hole in the floor.",
+    "“Too dark down there!” they cried. “Who knows what’s at the bottom.” They looked at me again.",
+    "“Probably a room of some kind,” I volunteered quickly. “But you what I say about appearances.” It would have been a relief to get outside for a while.",
+    "They wanted to know if they had been here before.... How could I answer that?",
+    "“I have the strangest feeling of déjà vu,” said one who, bolder than the rest, led us into..."
+   ],
+   "doors": [
+    {
+     "to": 23,
+     "points": [
+      191,
+      98,
+      468,
+      98,
+      468,
+      1179,
+      191,
+      1179
+     ]
+    },
+    {
+     "to": 43,
+     "points": [
+      746,
+      135,
+      1165,
+      135,
+      1165,
+      910,
+      746,
+      910
+     ]
+    },
+    {
+     "to": 32,
+     "points": [
+      679,
+      940,
+      1220,
+      940,
+      1220,
+      1288,
+      679,
+      1288
+     ]
+    },
+    {
+     "to": 45,
+     "points": [
+      1457,
+      109,
+      1747,
+      109,
+      1747,
+      1251,
+      1457,
+      1251
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paragraphs": [
+    "...a much smaller room.",
+    "A person with a white staff turned to face us. His associate shrugged, not an easy thing to do in his position, and went back to what he had been doing.",
+    "“Look, look,” said the person with the staff. “This is very important...”",
+    "I snatched the paper from his hand and tore it into pieces.",
+    "“How will he find his way without directions?” the group wanted to know.",
+    "“Don’t worry,” said the man, “here blindness is no disadvantage.”",
+    "I hurried my visitors out as quickly as I could to..."
+   ],
+   "doors": [
+    {
+     "to": 8,
+     "points": [
+      93,
+      311,
+      302,
+      311,
+      302,
+      1389,
+      93,
+      1389
+     ]
+    },
+    {
+     "to": 40,
+     "points": [
+      358,
+      281,
+      550,
+      281,
+      550,
+      1046,
+      358,
+      1046
+     ]
+    },
+    {
+     "to": 35,
+     "points": [
+      1027,
+      259,
+      1350,
+      259,
+      1350,
+      894,
+      1027,
+      894
+     ]
+    },
+    {
+     "to": 2,
+     "points": [
+      1396,
+      258,
+      1529,
+      258,
+      1529,
+      1056,
+      1396,
+      1056
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "paragraphs": [
+    "...room number 30. “What a beautiful door...the others are so plain,” said one.",
+    "“It’s meant to influence our decision,” said another.",
+    "“Perhaps this has been done so we will not choose this door,” said the thoughtful one.",
+    "They wanted to know what the letters meant. Obviously they meant something, and I said so.",
+    "“Yes, but...why ’O’ and ’U’? What special significance can they have for us?”",
+    "The more confused they became, the more I enjoyed it. No matter how many times I’ve been through this I’m always fascinated.",
+    "Leaving the room and all that it contained behind us, we entered..."
+   ],
+   "doors": [
+    {
+     "to": 42,
+     "points": [
+      336,
+      87,
+      507,
+      87,
+      507,
+      1022,
+      336,
+      1022
+     ]
+    },
+    {
+     "to": 34,
+     "points": [
+      786,
+      56,
+      1167,
+      56,
+      1167,
+      922,
+      786,
+      922
+     ]
+    },
+    {
+     "to": 5,
+     "points": [
+      1473,
+      99,
+      1608,
+      99,
+      1608,
+      1048,
+      1473,
+      1048
+     ]
+    },
+    {
+     "to": 15,
+     "points": [
+      1673,
+      60,
+      1872,
+      60,
+      1872,
+      1222,
+      1673,
+      1222
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "paragraphs": [
+    "...a melancholy little courtyard surrounded by a brick wall too high to see over. A dead tree lifted its bone-white branches to a sky filling with gray clouds.",
+    "“Those doors look very strange,” they said.",
+    "“You should say, ’They look very strangely,’” I corrected.",
+    "“They seem to be watching us...”",
+    "A sudden gust of wind made the branches clatter against each other like old boards. Dead leaves began to gather at our feet.",
+    "Shivering in the wind we managed to push open one of the heavy doors and make our way to..."
+   ],
+   "doors": [
+    {
+     "to": 44,
+     "points": [
+      153,
+      326,
+      432,
+      326,
+      432,
+      1199,
+      153,
+      1199
+     ]
+    },
+    {
+     "to": 19,
+     "points": [
+      642,
+      430,
+      857,
+      430,
+      857,
+      1100,
+      642,
+      1100
+     ]
+    },
+    {
+     "to": 21,
+     "points": [
+      1494,
+      351,
+      1776,
+      351,
+      1776,
+      1231,
+      1494,
+      1231
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "paragraphs": [
+    "...a large square room with a hole rudely broken through one wall. It must have taken a great deal of strength to pull the heavy stones out of position.",
+    "The symmetry was also disturbed by the apparent loss of one of the room’s statues. My visitors thought a thief had broken into the room, removed the figure, and made away with it. This, of course, was one explanation.",
+    "“Another one!” they cried.",
+    "“You mean another representative of the animal kingdom?” I asked.",
+    "“What is a bird like that doing here?”",
+    "“Roosting, evidently.” Their attitude was really beginning to irritate me. I have come to think of all the inhabitants of this House as members of my little kingdom. People can be so arrogant...in a very real way we are all animals, at least in part.",
+    "I wouldn’t answer any more of their questions so we left this room to enter..."
+   ],
+   "doors": [
+    {
+     "to": 11,
+     "points": [
+      93,
+      355,
+      373,
+      355,
+      373,
+      1240,
+      93,
+      1240
+     ]
+    },
+    {
+     "to": 6,
+     "points": [
+      783,
+      232,
+      1169,
+      232,
+      1169,
+      989,
+      783,
+      989
+     ]
+    },
+    {
+     "to": 16,
+     "points": [
+      506,
+      904,
+      652,
+      789,
+      725,
+      1081,
+      1385,
+      1129,
+      1407,
+      1466,
+      533,
+      1470
+     ]
+    },
+    {
+     "to": 28,
+     "points": [
+      1661,
+      527,
+      1868,
+      527,
+      1868,
+      1339,
+      1661,
+      1339
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "paragraphs": [
+    "...the room with no floor. They crowded each other on the narrow ledge. The bold one ventured out to the center.",
+    "Realizing that they could see all of the signs only from the center of the room, several wanted to turn back.",
+    "With exaggerated caution, considering their predicament, they finally reached the door they wanted and eventually found themselves in..."
+   ],
+   "doors": [
+    {
+     "to": 3,
+     "points": [
+      138,
+      185,
+      419,
+      185,
+      419,
+      1319,
+      138,
+      1319
+     ]
+    },
+    {
+     "to": 35,
+     "points": [
+      994,
+      168,
+      1444,
+      168,
+      1444,
+      1037,
+      994,
+      1037
+     ]
+    },
+    {
+     "to": 7,
+     "points": [
+      1499,
+      163,
+      1746,
+      163,
+      1746,
+      1303,
+      1499,
+      1303
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "paragraphs": [
+    "...a middle-class drawing room or parlor. It was amazing how much more comfortable they felt in these surroundings.",
+    "Everyone sat down, some on the floor, and chatted about where they had been and where they should go.",
+    "“Magpies!” I said to myself. “Not a real thought in their heads.”",
+    "They were so much at ease they almost missed what the room was telling them altogether. They finally got the message, which I thought was pretty obvious, and we went on to..."
+   ],
+   "doors": [
+    {
+     "to": 10,
+     "points": [
+      59,
+      32,
+      424,
+      32,
+      424,
+      1247,
+      59,
+      1247
+     ]
+    },
+    {
+     "to": 25,
+     "points": [
+      495,
+      119,
+      840,
+      119,
+      840,
+      993,
+      495,
+      993
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "paragraphs": [
+    "...what appeared to be someone’s basement. One of them sank gratefully down on an old couch which promptly collapsed.",
+    "I tried to hide my smile.",
+    "“A totem, or tribal fetish,” said one, walking around the center of the room.",
+    "“It could be a work of art,” suggested another.",
+    "“Perhaps it’s a signal to us,” the thoughtful one said. “A warning or direction?”",
+    "“Not much help when there is only one way to go,” put in another.",
+    "“I still think it’s a signal.”",
+    "“Yes,” I said right away, “I’m sure you’re right.”",
+    "She was immediately suspicious. Still, with no real choice to make, we left the thing standing alone in light and silence, and went into..."
+   ],
+   "doors": [
+    {
+     "to": 33,
+     "points": [
+      90,
+      252,
+      457,
+      252,
+      457,
+      943,
+      90,
+      943
+     ]
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "paragraphs": [
+    "...an old and ruinous part of the House. Turning a corner the music we had been hearing became louder and at last we saw the musicians themselves.",
+    "They were so involved they failed to hear us. The music was suited to the scene - a moody, romantic melody. We stopped to listen and I admit that I, too, was affected by the sound as well as by the spectacle of the masked players.",
+    "One of the visitors noticed me listening. “Beautiful music, don’t you think?”",
+    "“It’s not bad,” I said stiffly. “The viol brings the right sense of warmth to the piece, but the guitarist is overplaying his part. Still, he adds a certain plangent brio to an otherwise introspective composition...”",
+    "Unwilling to interrupt the concert we slipped past the musicians into the door to...."
+   ],
+   "doors": [
+    {
+     "to": 7,
+     "points": [
+      70,
+      61,
+      344,
+      61,
+      344,
+      1221,
+      70,
+      1221
+     ]
+    },
+    {
+     "to": 16,
+     "points": [
+      521,
+      153,
+      850,
+      153,
+      850,
+      1038,
+      521,
+      1038
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "paragraphs": [
+    "...a long, open room with no roof.",
+    "“What is going on here?” they wondered.",
+    "“Sometimes, important messages are couched in ambiguous terms,” I said. “That net may help you catch the answer to your question.”",
+    "They looked doubtful. “We must look at this from all sides before we make a decision.” At last, they were learning.",
+    "They really couldn’t decide which way to go; half of them wanted to go one way, half another. They were close to splitting up when there was a rattling sound and one of the doors was shaken from the other side.",
+    "They all stopped talking and moved closer together. They soon agreed on a direction and we departed for..."
+   ],
+   "doors": [
+    {
+     "to": 15,
+     "points": [
+      96,
+      119,
+      494,
+      119,
+      494,
+      992,
+      96,
+      992
+     ]
+    },
+    {
+     "to": 10,
+     "points": [
+      577,
+      145,
+      946,
+      145,
+      946,
+      971,
+      577,
+      971
+     ]
+    },
+    {
+     "to": 42,
+     "points": [
+      1026,
+      140,
+      1412,
+      140,
+      1412,
+      963,
+      1026,
+      963
+     ]
+    },
+    {
+     "to": 20,
+     "points": [
+      1495,
+      145,
+      1864,
+      145,
+      1864,
+      966,
+      1495,
+      966
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "paragraphs": [
+    "...a narrow space where one wall boasted half-finished carving and another some sort of carnival poster. There was a little confusion as we made our entrance but we soon sorted ourselves out.",
+    "It was impossible to climb up the slippery slide and another door wouldn’t open for us, so after emptying the pebbles from our shoes, we marched on to..."
+   ],
+   "doors": [
+    {
+     "to": 40,
+     "points": [
+      837,
+      256,
+      1250,
+      256,
+      1250,
+      1000,
+      837,
+      1000
+     ]
+    },
+    {
+     "to": 22,
+     "points": [
+      1374,
+      270,
+      1518,
+      270,
+      1518,
+      1137,
+      1374,
+      1137
+     ]
+    },
+    {
+     "to": 43,
+     "points": [
+      1627,
+      206,
+      1838,
+      206,
+      1838,
+      1345,
+      1627,
+      1345
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "paragraphs": [
+    "...what looked like a combination wine cellar and junk room. Someone had been working here as well.",
+    "“This is more to my taste,” said one, dusting off some labels. All the bottles turned out to be empty.",
+    "“I hear someone hammering,” said one.",
+    "“No, that’s a chopping sound,” said another.",
+    "None of them heard the faint jingling that came from behind the wall. “I don’t hear anything,” I said loudly and, with as much commotion as possible, hurried them out of the room to..."
+   ],
+   "doors": [
+    {
+     "to": 11,
+     "points": [
+      120,
+      158,
+      352,
+      158,
+      352,
+      1248,
+      120,
+      1248
+     ]
+    },
+    {
+     "to": 4,
+     "points": [
+      470,
+      190,
+      643,
+      190,
+      643,
+      902,
+      470,
+      902
+     ]
+    },
+    {
+     "to": 12,
+     "points": [
+      1333,
+      187,
+      1511,
+      187,
+      1511,
+      983,
+      1333,
+      983
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "paragraphs": [
+    "...the foundation of the Maze. Deep underground stones had been carved and fitted; passages opened in the natural rock.",
+    "“These symbols are quite unusual,” said one. “They seem to be primitive signs...”",
+    "“Do you know what signs?” I asked him.",
+    "“Oh, you know... wind and water, hills and planets.”",
+    "It was surprising that he could identify any of the symbols, but I was relieved that he couldn’t read them correctly.",
+    "Choosing more or less at random they went through a passageway to..."
+   ],
+   "doors": [
+    {
+     "to": 11,
+     "points": [
+      49,
+      166,
+      330,
+      166,
+      330,
+      1285,
+      49,
+      1285
+     ]
+    },
+    {
+     "to": 6,
+     "points": [
+      549,
+      334,
+      822,
+      334,
+      822,
+      1208,
+      549,
+      1208
+     ]
+    },
+    {
+     "to": 38,
+     "points": [
+      1025,
+      377,
+      1223,
+      377,
+      1223,
+      978,
+      1025,
+      978
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "paragraphs": [
+    "...a room with a special piece of furniture I thought might appeal to my guests.",
+    "“How can we trust that thing?” one remarked. “Who knows where it ends up...”",
+    "I knew naturally, but that wasn’t the point. They were pretty sure of themselves, and went right on to..."
+   ],
+   "doors": [
+    {
+     "to": 1,
+     "points": [
+      145,
+      10,
+      393,
+      10,
+      393,
+      1091,
+      145,
+      1091
+     ]
+    },
+    {
+     "to": 35,
+     "points": [
+      444,
+      32,
+      711,
+      32,
+      711,
+      969,
+      444,
+      969
+     ]
+    },
+    {
+     "to": 10,
+     "points": [
+      785,
+      105,
+      1144,
+      105,
+      1144,
+      886,
+      785,
+      886
+     ]
+    },
+    {
+     "to": 38,
+     "points": [
+      1499,
+      10,
+      1769,
+      10,
+      1769,
+      1157,
+      1499,
+      1157
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "paragraphs": [
+    "...the next room.",
+    "In one corner a savage animal appeared ready to leap out, roaring, rending with tusk and claw...but it was only a bit of taxidermy after all.",
+    "I suggested they might wish to hang up their coats before going on.",
+    "“How will we find them?” one asked. “We might not pass through here again.”",
+    "I assured them I would help them to return. “You can count on me,” I said sincerely. Still, they wouldn’t leave anything behind.",
+    "Opening one of the doors we made our way to..."
+   ],
+   "doors": [
+    {
+     "to": 22,
+     "points": [
+      72,
+      49,
+      330,
+      49,
+      330,
+      1304,
+      72,
+      1304
+     ]
+    },
+    {
+     "to": 30,
+     "points": [
+      360,
+      133,
+      553,
+      133,
+      553,
+      1102,
+      360,
+      1102
+     ]
+    },
+    {
+     "to": 4,
+     "points": [
+      670,
+      201,
+      975,
+      201,
+      975,
+      974,
+      670,
+      974
+     ]
+    },
+    {
+     "to": 25,
+     "points": [
+      1076,
+      199,
+      1397,
+      199,
+      1397,
+      983,
+      1076,
+      983
+     ]
+    },
+    {
+     "to": 37,
+     "points": [
+      1500,
+      196,
+      1820,
+      196,
+      1820,
+      964,
+      1500,
+      964
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "paragraphs": [
+    "...a great hall dominated by the entrance to room 22. The face over the door had a sly look.",
+    "“Is it good or bad to have only two choices?” they wanted to know.",
+    "It was, predictably enough, neither “good” not “bad.” These people just didn’t know how to phrase a meaningful question. You have to be very particular in this House.",
+    "We went on to..."
+   ],
+   "doors": [
+    {
+     "to": 22,
+     "points": [
+      731,
+      47,
+      1192,
+      47,
+      1192,
+      928,
+      731,
+      928
+     ]
+    },
+    {
+     "to": 38,
+     "points": [
+      736,
+      986,
+      1233,
+      986,
+      1233,
+      1373,
+      736,
+      1373
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "paragraphs": [
+    "...a courtyard of palms and statues. The trees waved to each other in the breeze.",
+    "“Who left the door open?” they wanted to know.",
+    "“We came in that way,” I offered, but they were convinced we had entered by another door entirely.",
+    "They vanished through the wall and I followed them to..."
+   ],
+   "doors": [
+    {
+     "to": 21,
+     "points": [
+      591,
+      361,
+      906,
+      361,
+      906,
+      1027,
+      591,
+      1027
+     ]
+    },
+    {
+     "to": 18,
+     "points": [
+      1447,
+      369,
+      1805,
+      369,
+      1805,
+      1056,
+      1447,
+      1056
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "paragraphs": [
+    "...the room at the center of the Maze.",
+    "My guests thought that whoever lived here was a careless person, to leave so many things around. They were wrong.",
+    "There was really only one thing for them to find: the Riddle of the Maze. They demanded that I show it to them.",
+    "“Do you think it is written on the wall for all to see? It is hidden here, somewhere, perhaps throughout the room. As far as you are concerned, what the Maze teaches can be learned in every room.”",
+    "They looked and looked...every group is the same.",
+    "“Now,” I said, after a last look around, “we must find our way back out.”",
+    "Leaving the center of the Maze we found ourselves in..."
+   ],
+   "doors": [
+    {
+     "to": 28,
+     "points": [
+      95,
+      113,
+      389,
+      113,
+      389,
+      1198,
+      95,
+      1198
+     ]
+    },
+    {
+     "to": 17,
+     "points": [
+      407,
+      85,
+      606,
+      85,
+      606,
+      948,
+      407,
+      948
+     ]
+    },
+    {
+     "to": 36,
+     "points": [
+      812,
+      92,
+      1190,
+      92,
+      1190,
+      903,
+      812,
+      903
+     ]
+    },
+    {
+     "to": 19,
+     "points": [
+      1423,
+      101,
+      1619,
+      101,
+      1619,
+      1038,
+      1423,
+      1038
+     ]
+    },
+    {
+     "to": 23,
+     "points": [
+      1664,
+      116,
+      1898,
+      116,
+      1898,
+      1267,
+      1664,
+      1267
+     ]
+    }
+   ]
+  }
+ ]
+}
